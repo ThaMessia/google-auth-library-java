@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.22.0](https://www.github.com/googleapis/google-auth-library-java/compare/v0.21.1...v0.22.0) (2020-08-20)
+
+
+### Features
+
+* add logging at FINE level for each step of ADC ([#435](https://www.github.com/googleapis/google-auth-library-java/issues/435)) ([7d145b2](https://www.github.com/googleapis/google-auth-library-java/commit/7d145b2371033093ea13fd05520c90970a5ef363))
+
 ### [0.21.1](https://www.github.com/googleapis/google-auth-library-java/compare/v0.21.0...v0.21.1) (2020-07-07)
 
 
